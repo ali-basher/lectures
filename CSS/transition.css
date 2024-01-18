@@ -1,0 +1,12 @@
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    transition: all 300ms ease-in-out;
+}
+
+div:hover {
+    background-color: dodgerblue;
+    border-radius: 50%;
+}
